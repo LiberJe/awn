@@ -1,0 +1,23 @@
+{
+  "name": "awn",
+  "version": "0.0.1",
+  "description": "A JavaScript library for building web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/awn.git"
+  },
+  "keywords": [
+    "awn",
+    "vdom"
+  ],
+  "author": "JeLewine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiberJe/awn/issues"
+  },
+  "homepage": "https://github.com/LiberJe/awn#readme"
+}
